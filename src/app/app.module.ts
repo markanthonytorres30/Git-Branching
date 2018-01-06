@@ -10,6 +10,10 @@ import { AppComponent } from './app.component';
   AppComponent,
   HighlightDirective,
   TitleComponent,
+
+  AwesomePipe,
+  ContactComponent,
+  ContactHighlightDirective
 ],
  imports: [ BrowserModule, FormsModule ],
  
